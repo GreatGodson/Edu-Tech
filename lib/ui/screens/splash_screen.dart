@@ -1,6 +1,6 @@
 import 'package:education/ui/styles/themes.dart';
 import 'package:education/ui/widgets/components/bottom_nav_bar.dart';
-import 'package:education/ui/styles/textStyle.dart';
+import 'package:education/ui/styles/text_style.dart';
 import 'package:education/ui/widgets/components/get_started_button.dart';
 import 'package:flutter/material.dart';
 
@@ -9,7 +9,6 @@ class SplashScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    double width = MediaQuery.of(context).size.width;
     double height = MediaQuery.of(context).size.height;
     return Scaffold(
       body: SafeArea(

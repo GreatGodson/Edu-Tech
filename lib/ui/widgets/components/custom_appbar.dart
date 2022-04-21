@@ -1,4 +1,4 @@
-import 'package:education/ui/styles/textStyle.dart';
+import 'package:education/ui/styles/text_style.dart';
 import 'package:education/ui/styles/themes.dart';
 import 'package:education/ui/widgets/components/search_textfield.dart';
 import 'package:flutter/material.dart';

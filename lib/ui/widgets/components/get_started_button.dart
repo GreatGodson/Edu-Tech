@@ -1,4 +1,4 @@
-import 'package:education/ui/styles/textStyle.dart';
+import 'package:education/ui/styles/text_style.dart';
 import 'package:education/ui/styles/themes.dart';
 import 'package:flutter/material.dart';
 
@@ -9,7 +9,6 @@ class GetStartedButton extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     double width = MediaQuery.of(context).size.width;
-    double height = MediaQuery.of(context).size.height;
     return Container(
         width: width * 0.5,
         decoration: BoxDecoration(
