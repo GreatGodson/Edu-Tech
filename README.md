@@ -1,6 +1,6 @@
 # Education
 
-EducTech.
+EdTech.
 
 ## Getting Started
 
